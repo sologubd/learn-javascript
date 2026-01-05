@@ -78,6 +78,7 @@ console.assert(pets.size === 2);
 person.pets = pets;
 console.info({ person });
 
+// Map
 const anthropometry = new Map();
 anthropometry.set('height', '180cm');
 console.info({ anthropometry });
