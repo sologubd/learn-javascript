@@ -11,3 +11,9 @@ npm install eslint@latest @eslint/js@latest
 ```
 npm install --save-dev eslint@latest @eslint/js@latest
 ```
+
+## Lint the code
+
+```
+npx eslint --fix src/
+```
